@@ -1,0 +1,51 @@
+body {
+	margin: 0 auto;
+	/*background-image: url("../images/signupHome.jpg");*/
+	background-color: #f1f1f1;
+	background-repeat: no-repeat;
+	background-size: 100% 720px;
+}
+
+.container {
+	width: 500px;
+	height: 400px;
+	text-align: center;
+	margin: 0 auto;
+	background-color: #2E8B57;
+	border-radius: 8px;
+	margin-top: 150px;
+}
+
+.container img {
+    width: 122px;
+    height: 120px;
+    margin-top: -60px;
+    margin-right: 0px;
+    margin-bottom: 30px;
+}
+
+.container input {
+	width: 300px;
+	height: 45px;
+	font-size: 18px;
+	margin-bottom: 20px;
+	padding-left: 30px;
+}
+
+a {
+	font-family: "verdana";
+	color: #fff;
+	text-decoration: none;
+}
+
+.site-header {
+    position: relative;
+    z-index: 3;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    background-color: #fff;
+    background-clip: padding-box;
+    border-bottom: 1px solid rgba(0,0,0,0.075);
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
